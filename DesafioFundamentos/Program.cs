@@ -36,6 +36,7 @@ while (exibirMenu)
             break;
 
         case "2":
+            es.ListarVeiculos();
             es.RemoverVeiculo();
             break;
 
@@ -52,7 +53,7 @@ while (exibirMenu)
             break;
     }
 
-    Console.WriteLine("Pressione uma tecla para continuar");
+    Console.WriteLine("Pressione Enter para continuar");
     Console.ReadLine();
 }
 
