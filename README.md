@@ -39,7 +39,7 @@ O código está pela metade, e você deverá dar continuidade obedecendo as regr
 
 ## Minha Resolução
 Apliquei todas a interações pedidas pela propostas, e adicionei algumas funcoes e otimizações
-** Adicionar mais veículos sem voltar para o menu.
-** Modelo de Placas aceitas: Y8A-X7F8, y8a-x7f8, Y8a-x7F8.
-** Não aceita veículos repetidos.
-** Apresenta a Lista de veículos ao Remover veículo
+* Adicionar mais veículos sem voltar para o menu.
+* Modelo de Placas aceitas: Y8A-X7F8, y8a-x7f8, Y8a-x7F8.
+* Não aceita veículos repetidos.
+* Apresenta a Lista de veículos ao Remover veículo
