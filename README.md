@@ -38,7 +38,8 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
 
 ## Minha Resolução
-Apliquei todas a interações pedidas pela propostas, e adicionei algumas funcoes e otimizações
+Apliquei todas a interações pedidas na proposta, adicionei novas funções e otimizações.
+
 * Adicionar mais veículos sem voltar para o menu.
 * Modelo de Placas aceitas: Y8A-X7F8, y8a-x7f8, Y8a-x7F8.
 * Não aceita veículos repetidos.
